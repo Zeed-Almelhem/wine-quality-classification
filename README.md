@@ -8,7 +8,7 @@ You can also connect with me on [LinkedIn]( https://www.linkedin.com/in/zeed-alm
 
 ## Project Results
 
-To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/house-price-predictions). Alternatively, you can see part 1[here](https://github.com/Zeed-Almelhem/wine-quality-classification/blob/main/Wine_Quality_Calssification%20-part1.ipynb) and part 2[here](https://github.com/Zeed-Almelhem/wine-quality-classification/blob/main/Wine_Quality_Calssification%20-%20part2.ipynb)  to access the code on GitHub.
+To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/house-price-predictions). Alternatively, you can see part 1 [here](https://github.com/Zeed-Almelhem/wine-quality-classification/blob/main/Wine_Quality_Calssification%20-part1.ipynb) and part 2 [here](https://github.com/Zeed-Almelhem/wine-quality-classification/blob/main/Wine_Quality_Calssification%20-%20part2.ipynb)  to access the code on GitHub.
 
 ----
 
